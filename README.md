@@ -1,6 +1,6 @@
 # IMAGIEO_CONVERTER
 
-A simple image converter using python. Size and format of an image can be converted using this image converter
+A simple image converter using python. Size and format of an image can be converted using this imAgieo_converter
 
 ## Team members
 
