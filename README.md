@@ -26,6 +26,8 @@ Python / 49
 python resizer.py image.jpeg -f png 
 ```
 2. Image resizing
+
+
 ```sh
 python resizer.py image.jpeg -r 200x200 
 ```
