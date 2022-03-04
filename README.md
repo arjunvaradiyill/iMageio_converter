@@ -20,6 +20,8 @@ link video
  
  [PILLIOW](https://pypi.org/project/Pillow/)
  
+ ```Python Imaging Library (Fork)
+ 
  ## HOW IT WORKS ??
 
 1.STEP 1:Install pillow library in your terminal.
