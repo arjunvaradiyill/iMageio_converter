@@ -10,8 +10,11 @@ A simple image converter using python. Size and format of an image can be conver
 Python / 49
 
 ## Link to product walkthrough
+------------------------------
+ [link video]
  
  # How to RUN
+ -------------------
  ``` sh pip intall pillow
 
 ## Libraries used...
