@@ -24,16 +24,16 @@ Python / 49
 ## Libraries used...
 ===========================
 
- **[PILLOW](https://python-pillow.org)
+ [PILLOW](https://python-pillow.org)
 
 
-## HOW TO WORKS USING TERMINAL
- ===========================
+ ##HOW TO WORKS USING TERMINAL 
+
 1. Image format conversion
 
-python resizer.py image.jpeg -f png 
+   \\python resizer.py image.jpeg -f png 
 
 2. Image resizing
 
-python resizer.py image.jpeg -r 200x200 
+   \\python resizer.py image.jpeg -r 200x200 
 
