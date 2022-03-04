@@ -10,6 +10,7 @@ A simple image converter using python. Size and format of an image can be conver
 ----------------------------
 
 ## Team Id
+
 Python / 49
 -----------------------------
 
@@ -17,23 +18,4 @@ Python / 49
 ------------------------------
  link video
  
- # How to RUN
- -------------------
- ``` sh pip intall pillow
-
-## Libraries used...
-===========================
-
- [PILLOW](https://pypi.org/project/Pillow/)
-
-
- ##HOW TO WORKS USING TERMINAL 
-
-1. Image format conversion
-
-   \\python resizer.py image.jpeg -f png 
-
-2. Image resizing
-
-   \\python resizer.py image.jpeg -r 200x200 
 
