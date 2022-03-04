@@ -15,8 +15,7 @@ Python / 49
  ``` sh pip intall pillow
 
 ## Libraries used...
-
- [PILLOW](https://python-pillow.org)
+[PILLOW](https://python-pillow.org)
 
 ## HOW TO WORKS USING TERMINAL
 
