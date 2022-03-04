@@ -23,6 +23,7 @@ link video
  ## HOW IT WORKS ??
 
 1.STEP 1:Install pillow library in your terminal.
+
 2.STEP 2:To convert different format and resize the flie.
 
 ## HOW TO RUN 
