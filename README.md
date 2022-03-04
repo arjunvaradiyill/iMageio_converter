@@ -14,9 +14,9 @@ Python / 49
  # How to RUN
  ``` sh pip intall pillow
 
-## Libraries used
+## Libraries used...
 
-[PILLOW](https://python-pillow.org)
+ [PILLOW](https://python-pillow.org)
 
 ## HOW TO WORKS USING TERMINAL
 
@@ -26,7 +26,6 @@ Python / 49
 python resizer.py image.jpeg -f png 
 ```
 2. Image resizing
-
 
 ```sh
 python resizer.py image.jpeg -r 200x200 
