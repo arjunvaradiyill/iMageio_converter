@@ -12,7 +12,7 @@ Python / 49
 ## Link to product walkthrough
  
  # How to RUN
- ``sh pip intall pillow
+ ``` sh pip intall pillow
 
 ## Libraries used
 
