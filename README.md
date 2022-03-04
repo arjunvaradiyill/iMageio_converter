@@ -24,7 +24,7 @@ Python / 49
 ## Libraries used...
 ===========================
 
- [PILLOW](https://python-pillow.org)
+ [PILLOW](https://pypi.org/project/Pillow/)
 
 
  ##HOW TO WORKS USING TERMINAL 
