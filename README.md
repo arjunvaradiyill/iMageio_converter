@@ -34,15 +34,21 @@ STEP 2:To convert different format and resize the flie.
 
 Usage of converter
 command:
+
 python resizer.py [input file name] [operation] [argument]
 Operation to be carried: 
+
 -f : format image
+
 Example:
-1: python resizer.py image.jpeg -f png 
+1: python resizer.py image.jpeg -f png
+
 2: python resizer.py image.png -f jpeg 
 
 -r :To resize image
+
 Example:
+
 1: python resizer.py image.jpeg -r 200x200 
 2: python resizer.py image.jpeg -r 250x200 
 
