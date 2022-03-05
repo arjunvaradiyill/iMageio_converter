@@ -16,8 +16,7 @@ A simple image converter using python. Size and format of an image can be conver
 Python / 49
 
 ## Link to product walkthrough
-
-PROJECT DEMO:("https://drive.google.com/file/d/1MtC_jm40kuZIHF8L-2SCrA6LgYfQ346b/view?usp=sharing")
+--PROJECT DEMO]("https://www.loom.com/share/cecfcfc423ce436ebffec4b4bbb9c1ce")
 
 LINK VIDEO
 
