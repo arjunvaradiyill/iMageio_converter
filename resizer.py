@@ -38,7 +38,7 @@ except:
     print('1: python resizer.py image.jpeg -f png ')
     print('2: python resizer.py image.png -f jpeg ')
     print()
-    print('-r :To resize image')
+    print('-r :To resize images')
     print('Example:')
     print('1: python resizer.py image.jpeg -r 200x200 ')
     print('2: python resizer.py image.jpeg -r 250x200 ')
